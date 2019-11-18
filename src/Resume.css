@@ -1,0 +1,20 @@
+.resume-right-col{
+    background: #27221F;
+    color: white;
+    padding: 2em;
+    border-radius: 3em;
+}
+
+.dots{
+    border-top: 2px solid #c31432;
+    width: 90%;
+    margin:1em;
+    text-align: center;
+    
+
+}
+
+h5.class{
+   padding-top:1em;
+   padding-left: 2em;
+}
